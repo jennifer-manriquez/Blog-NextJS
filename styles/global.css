@@ -13,8 +13,9 @@ body {
 }
 
 a {
-  color: #0070f3;
+  color: rgb(66, 135, 160);
   text-decoration: none;
+  font-weight: bold;
 }
 
 a:hover {
