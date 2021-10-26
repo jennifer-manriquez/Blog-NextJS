@@ -1,5 +1,5 @@
 ---
-title: 'Academy Week 28'
+title: 'Week 28'
 date: '2021-10-19'
 ---
 
